@@ -30,9 +30,14 @@ Hey 👋, I'm Samuel, but people also call me Creed. I'm a full-stack web develo
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-fikre&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-Fikre&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+### 🔥 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Fikre&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #
 
